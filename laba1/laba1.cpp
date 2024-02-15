@@ -5,11 +5,18 @@ using namespace std;
 //     cout << "Hello World!";
 // }
 
-int main() {
-	int a = 10;
-	int* p = &a;
-	cout: << p << " - " << p << '/n'
-}
+// int main() {
+// 	int a = 10;
+// 	int* p = &a;
+// 	cout: << p << " - " << p << '/n';
+// } //Инициализация и вывод указателя через взятие другой переменной
 
+
+// int main() {
+// 	int* p = new int{ 11 };
+// 	int* p1 = p;
+// 	cout << p << " " << *p1 << '\n';
+// 	return 0;
+// } // через другой значение другого указателя
 
 
