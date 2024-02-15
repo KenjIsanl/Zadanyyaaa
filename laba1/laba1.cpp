@@ -5,4 +5,10 @@ using namespace std;
 //     cout << "Hello World!";
 // }
 
+int main() {
+	int a = 10;
+	int* b = &a;
+}
+
+
 
